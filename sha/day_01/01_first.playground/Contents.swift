@@ -34,7 +34,7 @@ print("여긴 참나무숲", terminator: "->")
 print("장수풍뎅이와", terminator: "\t")
 print("사슴벌레가 살지", terminator: "\n")
 print("낮엔 숨어있다", terminator: "")
-print("밤엔 살금살금", terminator: "\n\n\n\n")
-print("신나게 놀러다녀")
+print("밤엔 살금살금", terminator: "\n\n\n")
+print("신나게 놀러다녀....")
 //terminator를 사용하여 print의 종결단을 바꾼다
 
