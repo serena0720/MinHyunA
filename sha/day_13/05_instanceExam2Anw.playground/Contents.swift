@@ -23,3 +23,4 @@ exam2(name:"정좌성", jum:39,27,91, fn: {
     }
     return(tot, Int(res))
 })
+//위에 구조에 익숙해져야 함
